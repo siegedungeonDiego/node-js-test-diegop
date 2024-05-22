@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.linux": {
+        "NVM_DIR": "${env:HOME}/.nvm",
+        "NVM_BIN": "${env:HOME}/.nvm/versions/node/v22.2.0/bin",
+        "PATH": "${env:HOME}/.nvm/versions/node/v22.2.0/bin:${env:PATH}"
+      },
+}
